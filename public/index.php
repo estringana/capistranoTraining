@@ -1,3 +1,3 @@
 <?php
 
-echo gethostname();
+echo "Capistrano says this computer is: ".gethostname();
