@@ -1,3 +1,3 @@
 <?php
 
-echo "BRANCH B - Capistrano says this computer is: ".gethostname();
+echo "BRANCH C - Capistrano says this computer is: ".gethostname();
